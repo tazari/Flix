@@ -19,9 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
 <img src="https://media.giphy.com/media/JoV6olbNhUKO0DGcox/giphy.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Surprisingly few challenges encountered upon buliding this app! The biggest was right towards the end: went to pull the ReadMe from GitHub into my XCode project and accidentally stashed away all the code in my XCode project, leaving me with a blank XCode workspace. Stashed? Stashed where? I had no idea! Eventually was able to find it under Source Control navigator > Stashed Changes folder, but for a few hours it was a sad, sad day.
